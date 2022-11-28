@@ -2,6 +2,7 @@
 ## Table of contents
 
 * [Before we get started](#intro)
+* [Links](Links)
 
 
 ## Before we get started
