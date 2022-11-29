@@ -41,7 +41,7 @@ git clone git@github.com:Fabri-Tech/Horiseon-Fabrizio-Trevino.git
 
 ## :pencil2: How to make changes in the project ✂️
 
-Clone this project to your computer and send it to our email :e-mail: corp@horoseon.com, we will reply you back in a time lapse of 2-4 business days.
+Clone this project to your computer and send it to our email :e-mail: corp@horiseon.com, we will reply you back in a time lapse of 2-4 business days.
 
 ## Deployed links
 
